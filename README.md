@@ -6,9 +6,9 @@
 
 
 ### 개발환경
-언어: HTML/CSS, bootstrap, Javascript, python
-Server : node.js
-DB : MySQL 5.1
-IDE : WebStorm 2022.2.3
-라이브러리 : jQuery
+언어: HTML/CSS, bootstrap, Javascript, python <br>
+Server : node.js <br>
+DB : MySQL 5.1 <br>
+IDE : WebStorm 2022.2.3 <br>
+라이브러리 : jQuery <br>
 
